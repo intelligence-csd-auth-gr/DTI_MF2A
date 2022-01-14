@@ -1,0 +1,19 @@
+Method	cvs	DataSet	AUPR	AUC	AUC_AUPR	Time	params
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	1	nr1	0.643782	0.878891	1.522673	1.710587	{'num_factors': 50, 'lambda_d': 4.0, 'lambda_t': 0.25, 'lambda_r': 0.0625}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	1	gpcr1	0.872616	0.975185	1.847801	36.816774	{'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 0.25, 'lambda_r': 0.0625}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	1	ic1	0.931144	0.988243	1.919387	73.230160	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 1.0, 'lambda_r': 0.0625}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	1	e1	0.845858	0.983104	1.828962	871.530699	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 4.0, 'lambda_r': 0.0625}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	2	nr1	0.543152	0.833871	1.377023	1.757155	{'num_factors': 50, 'lambda_d': 4.0, 'lambda_t': 0.0625, 'lambda_r': 0.0625}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	2	gpcr1	0.533152	0.924887	1.458039	32.958489	{'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 1.0, 'lambda_r': 0.0625}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	2	ic1	0.483313	0.827234	1.310547	52.455957	{'num_factors': 50, 'lambda_d': 4.0, 'lambda_t': 1.0, 'lambda_r': 0.0625}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	2	e1	0.397674	0.888012	1.285686	896.927444	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 4.0, 'lambda_r': 4.0}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	3	nr1	0.560645	0.828216	1.388861	2.260240	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 1.0, 'lambda_r': 0.0625}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	3	gpcr1	0.774997	0.960505	1.735502	34.322422	{'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 0.25, 'lambda_r': 1.0}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	3	ic1	0.858565	0.966006	1.824571	74.391937	{'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 1.0, 'lambda_r': 1.0}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	3	e1	0.716717	0.944941	1.661658	928.939239	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 4.0, 'lambda_r': 0.25}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	4	nr1	0.281348	0.648681	0.930029	1.273122	{'num_factors': 50, 'lambda_d': 4.0, 'lambda_t': 0.0625, 'lambda_r': 0.0625}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	4	gpcr1	0.395018	0.885490	1.280508	19.592828	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 0.25, 'lambda_r': 0.0625}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	4	ic1	0.336081	0.774388	1.110469	37.153154	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 0.25, 'lambda_r': 1.0}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	4	e1	0.202093	0.819807	1.021900	333.889440	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 4.0, 'lambda_r': 0.25}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	1	dtip	0.511905	0.959797	1.471702	4210.589941	{'num_factors': 100, 'lambda_d': 16, 'lambda_t': 16, 'lambda_r': 0.25}
+LCS_SV_TRANS_NRMFAUC_F3_TRANS_Combine_Sims_Limb3	1	luo	0.599617	0.964785	1.564402	4721.792063	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 4.0, 'lambda_r': 1.0}

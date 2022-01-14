@@ -1,0 +1,16 @@
+Method	cvs	DataSet	AUPR	AUC	AUC_AUPR	Time	params
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	2	nr1	0.579722	0.827369	1.407091	1.547100	{'M': 31, 'num_factors': 50, 'lambda_d': 1.0, 'lambda_t': 0.0625, 'lambda_r': 0.0625}
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	2	gpcr1	0.545349	0.919248	1.464597	9.410413	{'M': 11, 'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 0.0625, 'lambda_r': 0.0625}
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	2	ic1	0.492012	0.797334	1.289346	16.594291	{'M': 11, 'num_factors': 100, 'lambda_d': 0.25, 'lambda_t': 0.25, 'lambda_r': 1.0}
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	2	e1	0.415039	0.847126	1.262165	252.152575	{'M': 21, 'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 1.0, 'lambda_r': 0.0625}
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	3	nr1	0.586722	0.801184	1.387906	1.417078	{'M': 16, 'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 0.0625, 'lambda_r': 0.25}
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	3	gpcr1	0.785898	0.956234	1.742132	10.176275	{'M': 21, 'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 0.0625, 'lambda_r': 0.25}
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	3	ic1	0.859945	0.963504	1.823449	16.755577	{'M': 11, 'num_factors': 100, 'lambda_d': 0.25, 'lambda_t': 4.0, 'lambda_r': 0.25}
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	3	e1	0.718796	0.931520	1.650316	222.455655	{'M': 21, 'num_factors': 100, 'lambda_d': 0.25, 'lambda_t': 1.0, 'lambda_r': 1.0}
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	4	nr1	0.284079	0.647979	0.932058	0.625243	{'M': 21, 'num_factors': 50, 'lambda_d': 4.0, 'lambda_t': 4.0, 'lambda_r': 0.0625}
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	4	gpcr1	0.403538	0.871037	1.274575	4.977379	{'M': 21, 'num_factors': 100, 'lambda_d': 0.25, 'lambda_t': 0.0625, 'lambda_r': 0.0625}
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	4	ic1	0.350519	0.757016	1.107535	6.813034	{'M': 31, 'num_factors': 50, 'lambda_d': 1.0, 'lambda_t': 0.0625, 'lambda_r': 4.0}
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	4	e1	0.234303	0.797733	1.032036	135.149726	{'M': 21, 'num_factors': 50, 'lambda_d': 0.0625, 'lambda_t': 1.0, 'lambda_r': 1.0}
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	2	luo	0.461150	0.845652	1.306802	884.735048	{'M': 21, 'num_factors': 100, 'lambda_d': 0.25, 'lambda_t': 0.0625, 'lambda_r': 0.25}
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	3	luo	0.290393	0.818377	1.108770	549.361598	{'M': 21, 'num_factors': 100, 'lambda_d': 0.25, 'lambda_t': 0.0625, 'lambda_r': 0.25}
+LCS_SV_NRMFAP2_GD_Combine_Sims_Limb3	4	luo	0.173995	0.751181	0.925176	242.417532	{'M': 21, 'num_factors': 100, 'lambda_d': 0.0625, 'lambda_t': 0.25, 'lambda_r': 1.0}

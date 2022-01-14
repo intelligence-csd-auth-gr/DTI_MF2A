@@ -1,0 +1,16 @@
+Method	cvs	DataSet	AUPR	AUC	param
+LCS_SV_MF2A_Combine_Sims_Limb3	2	nr1	0.577636	0.832801	{'w': 0.93}
+LCS_SV_MF2A_Combine_Sims_Limb3	2	gpcr1	0.551052	0.923712	{'w': 0.78}
+LCS_SV_MF2A_Combine_Sims_Limb3	2	ic1	0.495016	0.827522	{'w': 0.62}
+LCS_SV_MF2A_Combine_Sims_Limb3	2	e1	0.422154	0.891534	{'w': 0.59}
+LCS_SV_MF2A_Combine_Sims_Limb3	3	nr1	0.588177	0.819381	{'w': 0.93}
+LCS_SV_MF2A_Combine_Sims_Limb3	3	gpcr1	0.787358	0.960083	{'w': 0.9}
+LCS_SV_MF2A_Combine_Sims_Limb3	3	ic1	0.863261	0.96692	{'w': 0.78}
+LCS_SV_MF2A_Combine_Sims_Limb3	3	e1	0.731468	0.944283	{'w': 0.81}
+LCS_SV_MF2A_Combine_Sims_Limb3	4	nr1	0.289382	0.649424	{'w': 0.83}
+LCS_SV_MF2A_Combine_Sims_Limb3	4	gpcr1	0.406784	0.885825	{'w': 0.77}
+LCS_SV_MF2A_Combine_Sims_Limb3	4	ic1	0.351761	0.7759	{'w': 0.87}
+LCS_SV_MF2A_Combine_Sims_Limb3	4	e1	0.2345	0.820795	{'w': 0.93}
+LCS_SV_MF2A_Combine_Sims_Limb3	2	luo	0.471841	0.926543	{'w': 0.81}
+LCS_SV_MF2A_Combine_Sims_Limb3	3	luo	0.291721	0.900684	{'w': 0.89}
+LCS_SV_MF2A_Combine_Sims_Limb3	4	luo	0.174684	0.847516	{'w': 0.93}
