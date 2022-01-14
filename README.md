@@ -10,6 +10,6 @@ scipy==1.6.1
 
 The codes were tested on Python 3.7
 
-Running the file Codes/main_mf2a.py, with assigning your local directory to the `my_path` variable.
+Excute the file Codes/main_mf2a.py, with assigning your local directory to the `my_path` variable.
 
 
